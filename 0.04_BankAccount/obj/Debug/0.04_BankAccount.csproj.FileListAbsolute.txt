@@ -1,0 +1,5 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_BankAccount\bin\Debug\0.04_BankAccount.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_BankAccount\bin\Debug\0.04_BankAccount.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_BankAccount\bin\Debug\0.04_BankAccount.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_BankAccount\obj\Debug\0.04_BankAccount.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_BankAccount\obj\Debug\0.04_BankAccount.pdb

@@ -1,0 +1,5 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.pdb
