@@ -1,0 +1,6 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_Objects\bin\Debug\0.07_Objects.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_Objects\bin\Debug\0.07_Objects.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_Objects\bin\Debug\0.07_Objects.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_Objects\obj\Debug\0.07_Objects.csprojResolveAssemblyReference.cache
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_Objects\obj\Debug\0.07_Objects.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_Objects\obj\Debug\0.07_Objects.pdb

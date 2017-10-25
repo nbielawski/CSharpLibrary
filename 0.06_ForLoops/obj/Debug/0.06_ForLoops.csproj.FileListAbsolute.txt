@@ -1,0 +1,5 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.06_ForLoops\bin\Debug\0.06_ForLoops.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.06_ForLoops\bin\Debug\0.06_ForLoops.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.06_ForLoops\bin\Debug\0.06_ForLoops.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.06_ForLoops\obj\Debug\0.06_ForLoops.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.06_ForLoops\obj\Debug\0.06_ForLoops.pdb
