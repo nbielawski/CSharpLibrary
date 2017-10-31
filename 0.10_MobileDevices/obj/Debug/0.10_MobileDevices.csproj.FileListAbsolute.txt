@@ -1,0 +1,6 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.10_MobileDevices\bin\Debug\0.10_MobileDevices.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.10_MobileDevices\bin\Debug\0.10_MobileDevices.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.10_MobileDevices\bin\Debug\0.10_MobileDevices.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.10_MobileDevices\obj\Debug\0.10_MobileDevices.csprojResolveAssemblyReference.cache
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.10_MobileDevices\obj\Debug\0.10_MobileDevices.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.10_MobileDevices\obj\Debug\0.10_MobileDevices.pdb

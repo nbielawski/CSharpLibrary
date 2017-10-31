@@ -1,0 +1,6 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\bin\Debug\0.07_ObjectsChallenges.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\obj\Debug\0.07_ObjectsChallenges.csprojResolveAssemblyReference.cache
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\bin\Debug\0.07_ObjectsChallenges.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\bin\Debug\0.07_ObjectsChallenges.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\obj\Debug\0.07_ObjectsChallenges.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\obj\Debug\0.07_ObjectsChallenges.pdb

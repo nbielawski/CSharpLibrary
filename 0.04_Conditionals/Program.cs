@@ -22,11 +22,16 @@ namespace _0._04_Conditionals
             {
                 Console.WriteLine("Bleh");
             }
+
+            else if ( userResponseInt == 4)
+            {
+                Console.WriteLine("4 isnt bad");
+            }
             else
             {
                 Console.WriteLine( "Fantastic");
             }
-
+            Console.ReadLine();
 
             
         }

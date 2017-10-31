@@ -1,0 +1,6 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_ConditionalsPractice\bin\Debug\0.04_ConditionalsPractice.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_ConditionalsPractice\bin\Debug\0.04_ConditionalsPractice.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_ConditionalsPractice\bin\Debug\0.04_ConditionalsPractice.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_ConditionalsPractice\obj\Debug\0.04_ConditionalsPractice.csprojResolveAssemblyReference.cache
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_ConditionalsPractice\obj\Debug\0.04_ConditionalsPractice.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_ConditionalsPractice\obj\Debug\0.04_ConditionalsPractice.pdb

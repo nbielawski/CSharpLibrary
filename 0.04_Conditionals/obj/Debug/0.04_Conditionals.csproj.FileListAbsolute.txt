@@ -3,3 +3,4 @@ C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_Conditionals\bin\Debug\0.04_Cond
 C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_Conditionals\bin\Debug\0.04_Conditionals.pdb
 C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_Conditionals\obj\Debug\0.04_Conditionals.exe
 C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_Conditionals\obj\Debug\0.04_Conditionals.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.04_Conditionals\obj\Debug\0.04_Conditionals.csprojResolveAssemblyReference.cache

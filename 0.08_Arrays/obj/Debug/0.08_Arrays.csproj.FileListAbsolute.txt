@@ -1,0 +1,6 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.08_Arrays\bin\Debug\0.08_Arrays.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.08_Arrays\bin\Debug\0.08_Arrays.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.08_Arrays\bin\Debug\0.08_Arrays.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.08_Arrays\obj\Debug\0.08_Arrays.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.08_Arrays\obj\Debug\0.08_Arrays.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.08_Arrays\obj\Debug\0.08_Arrays.csprojResolveAssemblyReference.cache

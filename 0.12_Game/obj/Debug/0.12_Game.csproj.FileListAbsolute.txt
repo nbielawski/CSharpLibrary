@@ -1,0 +1,6 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.12_Game\bin\Debug\0.12_Game.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.12_Game\obj\Debug\0.12_Game.csprojResolveAssemblyReference.cache
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.12_Game\bin\Debug\0.12_Game.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.12_Game\bin\Debug\0.12_Game.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.12_Game\obj\Debug\0.12_Game.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.12_Game\obj\Debug\0.12_Game.pdb
