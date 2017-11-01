@@ -1,0 +1,6 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.14_GettersSetters\bin\Debug\0.14_GettersSetters.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.14_GettersSetters\bin\Debug\0.14_GettersSetters.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.14_GettersSetters\bin\Debug\0.14_GettersSetters.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.14_GettersSetters\obj\Debug\0.14_GettersSetters.csprojResolveAssemblyReference.cache
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.14_GettersSetters\obj\Debug\0.14_GettersSetters.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.14_GettersSetters\obj\Debug\0.14_GettersSetters.pdb
