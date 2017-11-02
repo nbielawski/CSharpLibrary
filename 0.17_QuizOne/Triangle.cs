@@ -12,16 +12,18 @@ namespace _0._17_QuizOne
         {
             this.TBase = TBase;
             this.THeight = THeight;
+            
         }
       
 
         public int TBase { get; set; }
         public int THeight { get; set; }
-     
+        public double TArea { get; set; }
 
         public override double Area()
         {
-            return TBase * THeight / 2;
+            this.TArea = TBase * THeight/2;
+            return TArea;
         }
     }
 }
