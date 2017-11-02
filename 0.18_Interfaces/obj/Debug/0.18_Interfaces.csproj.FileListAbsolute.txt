@@ -1,0 +1,6 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.18_Interfaces\bin\Debug\0.18_Interfaces.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.18_Interfaces\bin\Debug\0.18_Interfaces.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.18_Interfaces\bin\Debug\0.18_Interfaces.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.18_Interfaces\obj\Debug\0.18_Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.18_Interfaces\obj\Debug\0.18_Interfaces.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.18_Interfaces\obj\Debug\0.18_Interfaces.pdb

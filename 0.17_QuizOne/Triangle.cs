@@ -22,7 +22,7 @@ namespace _0._17_QuizOne
 
         public override double Area()
         {
-            this.TArea = TBase * THeight/2;
+            TArea = TBase * THeight/2;
             return TArea;
         }
     }
