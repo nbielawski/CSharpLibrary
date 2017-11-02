@@ -1,1 +1,6 @@
 C:\Users\nickb\DotNetOctober\CSharpLibrary\0.17_QuizOne\bin\Debug\0.17_QuizOne.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.17_QuizOne\obj\Debug\0.17_QuizOne.csprojResolveAssemblyReference.cache
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.17_QuizOne\bin\Debug\0.17_QuizOne.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.17_QuizOne\bin\Debug\0.17_QuizOne.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.17_QuizOne\obj\Debug\0.17_QuizOne.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.17_QuizOne\obj\Debug\0.17_QuizOne.pdb
