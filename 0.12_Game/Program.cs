@@ -71,7 +71,7 @@ namespace _0._12_Game
                 Console.Write("0: Attack\n" +
                               "1: Run\n" +
                               "2: Hide\n");
-                int inputAction = Int32.Parse(Console.ReadLine());
+                int inputAction = int.Parse(Console.ReadLine());
                 Player.Action heroAction = (Player.Action)inputAction;
 
                 switch (heroAction)

@@ -1,0 +1,6 @@
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.19_FizzBuzz\bin\Debug\0.19_FizzBuzz.exe.config
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.19_FizzBuzz\bin\Debug\0.19_FizzBuzz.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.19_FizzBuzz\bin\Debug\0.19_FizzBuzz.pdb
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.19_FizzBuzz\obj\Debug\0.19_FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.19_FizzBuzz\obj\Debug\0.19_FizzBuzz.exe
+C:\Users\nickb\DotNetOctober\CSharpLibrary\0.19_FizzBuzz\obj\Debug\0.19_FizzBuzz.pdb

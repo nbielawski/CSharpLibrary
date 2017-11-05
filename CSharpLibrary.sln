@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.17_QuizOne", "0.17_QuizOn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.18_Interfaces", "0.18_Interfaces\0.18_Interfaces.csproj", "{862F9342-14C3-4145-B7BB-87CFF509E0C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.19_FizzBuzz", "0.19_FizzBuzz\0.19_FizzBuzz.csproj", "{50F1298F-915D-46DF-B252-14691DF2E12A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{862F9342-14C3-4145-B7BB-87CFF509E0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{862F9342-14C3-4145-B7BB-87CFF509E0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{862F9342-14C3-4145-B7BB-87CFF509E0C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F1298F-915D-46DF-B252-14691DF2E12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F1298F-915D-46DF-B252-14691DF2E12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F1298F-915D-46DF-B252-14691DF2E12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F1298F-915D-46DF-B252-14691DF2E12A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
